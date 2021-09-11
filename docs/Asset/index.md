@@ -1,4 +1,4 @@
-
+   
 # Create Asset 
 
 This object is used to represent the assets that are to be managed by the CMMS : these can be equipments, locations and facilities, or tools
