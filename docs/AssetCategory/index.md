@@ -1,6 +1,6 @@
 # Create AssetCategory
 This object is used for representing a category of assets. Main categories are equipment, tools and facilities but more categories can be created under those root categories.
-
+   
 Create an AssetCategory if  AssetCategory does not already exist.
 
 **URL** : `/api/assetcategory`
