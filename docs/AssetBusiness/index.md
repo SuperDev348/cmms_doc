@@ -1,5 +1,5 @@
 # Create AssetBusiness 
-
+   
 An AssetBusiness represents the relationship between a particular Business within your CMMS and the associated Assets with this Business. It contains information about the Business Role Type, such as Customer/Client, Manufacturer, Owner, Service Provider, or Supplier
 
 Create an AssetBusiness if  AssetBusiness does not already exist.
